@@ -1,7 +1,7 @@
 ![Gemini_Generated_Image_bq8eifbq8eifbq8e](https://github.com/user-attachments/assets/da31c257-a126-472e-8fda-1dfd0372fa65)
 
 
-Kısa YouTube - 1 DK Video : 
+Kısa YouTube - 1 DK Video : https://www.youtube.com/watch?v=N2tdlw3Y6uk 
 
 Detaylı YouTube Video Açıklama : https://www.youtube.com/watch?v=XSnxymlDqRE
 
