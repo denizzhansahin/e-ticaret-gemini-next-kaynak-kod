@@ -28,6 +28,11 @@ Projede ayrıca FLASK ve CORS kullanılarak NGROK üzerinden gelen HTTP istekler
 
 Proje genel olarak, yapay zeka destekli bir ürün bilgi yönetim sistemi olarak çalışmakta ve kullanıcıların görseller üzerinden kapsamlı ürün bilgisi elde etmesine imkan tanımaktadır.
 
+| ![full](https://github.com/user-attachments/assets/a9c4497b-fda5-47bd-bfc0-b8e5d88158d2) | ![4a2be73b1e2efb44355436c40bf496dd](https://github.com/user-attachments/assets/40951cec-aee7-49e0-aa66-f6dcc220caaf) | ![Python-logo-notext svg](https://github.com/user-attachments/assets/e34a1a09-93b1-4c7a-9211-91b9edcf77ae) |
+| --- | --- | --- |
+| ![indir](https://github.com/user-attachments/assets/ff90bbc2-ae5a-400a-b097-60e63e15d8e2) | ![hf-logo](https://github.com/user-attachments/assets/2bf47839-6170-4bf6-93be-68e7b1226c7c) | ![Gemini_language_model_logo](https://github.com/user-attachments/assets/124143ef-75d4-449f-b5d6-e0e05901e80c) |
+| ![6411ffa0b395a44345ed2b1a_Frame 1](https://github.com/user-attachments/assets/cadfa772-6aae-45f3-b9b9-f5ee94fd8662) | ![Google_Colaboratory_SVG_Logo svg](https://github.com/user-attachments/assets/cdf76d03-25f3-41d4-8de3-d96778ccb7a8) | ![logo-vertical](https://github.com/user-attachments/assets/aa416db5-6858-454c-b65a-b6caf328256d) |
+| ![vercel](https://github.com/user-attachments/assets/3a1d3ebd-a7c7-494e-851b-f0698272af31) | ![flask-icon-1594x2048-84mjydzf](https://github.com/user-attachments/assets/15345dfe-d5f6-48e2-865d-5081a059478b) |  |
 
 
 ## Kullandığımız Teknolojiler
