@@ -27,6 +27,12 @@ Proje genel olarak, yapay zeka destekli bir ürün bilgi yönetim sistemi olarak
 
 
 
+## Kullandığımız Teknolojiler
+
+
+
+
+## Geliştiriciler
 
 
 
