@@ -8,6 +8,9 @@ Detaylı YouTube Video Açıklama : https://www.youtube.com/watch?v=XSnxymlDqRE
 Web Sitesi : https://e-ticaret-nextjs-gemini-python.vercel.app/
 
 
+Bu uygulama, yüklediğiniz ürün görseli üzerinden analiz yaparak ürünün adı, markası, modeli, fiyatı, ve teknik özelliklerini (boyut, ağırlık, renk, malzeme) otomatik olarak tespit eder. Gemini AI teknolojisini kullanarak, ürününüzün en iyi şekilde tanıtılması için profesyonel ve etkileyici bir içerik metni oluşturur. Online pazarlama ve e-ticaret dünyasında, ürün tanıtımınız artık çok daha kolay! Dikkat! Biz ücretsiz bir Python çalıştıran bir sunucu kullanıyoruz. Bütçemiz olmadığı için kısıtlı çalıştırmaktayız, yani her zaman açık değil.
+
+
 Bu projede, yapay zeka ve modern web teknolojileri kullanılarak görüntü işleme, nesne tanıma, görüntü iyileştirme ve ürün verisi oluşturma gibi çok aşamalı işlemler entegre bir sistem içinde gerçekleştirilmiştir. Projenin amacı, kullanıcıların yüklediği görseller üzerinden ürün bilgilerini otomatik olarak elde edip mağaza görünümünde sergilemektir. Sistem; YOLO, Hugging Face, Google Gemini API, NextJS, Python, NGROK, Google Firebase gibi farklı teknolojilerden oluşan karmaşık bir altyapı üzerine inşa edilmiştir.
 
 Projeye ilk adımda, kullanıcılar NextJS kullanılarak hazırlanmış web sitesi üzerinden ürün görsellerini yüklemektedir. NextJS, modern ve performanslı bir arayüz sunarak kullanıcı deneyimini iyileştirir ve kullanıcıların projeye görsellerini sorunsuz bir şekilde yüklemelerine olanak tanır. Yüklenen görseller, kullanıcı dostu bir arayüz aracılığıyla Base64 formatına dönüştürülerek Google Firebase Realtime Database üzerine gönderilir. Bu işlem, Firebase'in hızlı ve güvenli veri işleme özelliklerinden yararlanarak kullanıcı verilerinin gerçek zamanlı bir veritabanında depolanmasını sağlar.
@@ -43,9 +46,26 @@ Proje genel olarak, yapay zeka destekli bir ürün bilgi yönetim sistemi olarak
 
 ## Geliştiriciler
 
+DENİZHAN ŞAHİN :
+
+https://github.com/denizzhansahin
+
+https://www.linkedin.com/in/denizzhan-sahin/
+
+
+ÖMER ŞARLAVUK : 
+
+https://github.com/OmerSarlavuk
+
+
+https://www.linkedin.com/in/omersarlavuk/
 
 
 
+
+
+
+## BAŞLANGIÇ
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
