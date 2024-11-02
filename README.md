@@ -1,4 +1,3 @@
-![full](https://github.com/user-attachments/assets/c35c5263-82cb-4015-ace0-969637f1f547)
 ![Gemini_Generated_Image_bq8eifbq8eifbq8e](https://github.com/user-attachments/assets/da31c257-a126-472e-8fda-1dfd0372fa65)
 
 
