@@ -31,6 +31,13 @@ Proje genel olarak, yapay zeka destekli bir ürün bilgi yönetim sistemi olarak
 
 
 ## Kullandığımız Teknolojiler
+
+![full](https://github.com/user-attachments/assets/a9c4497b-fda5-47bd-bfc0-b8e5d88158d2)
+![4a2be73b1e2efb44355436c40bf496dd](https://github.com/user-attachments/assets/40951cec-aee7-49e0-aa66-f6dcc220caaf)
+![Python-logo-notext svg](https://github.com/user-attachments/assets/e34a1a09-93b1-4c7a-9211-91b9edcf77ae)
+![indir](https://github.com/user-attachments/assets/ff90bbc2-ae5a-400a-b097-60e63e15d8e2)
+
+
 ![hf-logo](https://github.com/user-attachments/assets/2bf47839-6170-4bf6-93be-68e7b1226c7c)
 ![Gemini_language_model_logo](https://github.com/user-attachments/assets/124143ef-75d4-449f-b5d6-e0e05901e80c)
 ![6411ffa0b395a44345ed2b1a_Frame 1](https://github.com/user-attachments/assets/cadfa772-6aae-45f3-b9b9-f5ee94fd8662)
